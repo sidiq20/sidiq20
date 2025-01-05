@@ -15,6 +15,7 @@ Hi, I'm **Sidiq Olasode**, aka **JSX**, a web developer specializing in React.js
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-092E20?logo=Flask&logoColor=white)
 
 ---
 
@@ -25,6 +26,7 @@ Hi, I'm **Sidiq Olasode**, aka **JSX**, a web developer specializing in React.js
 | **Face Recognition App** | A face recognition app using React and Python. | React, Python |
 | **Restaurant Order App** | A mobile-friendly app for ordering food. | React, Tailwind CSS |
 | **Acme Rockets** | A company website built with React and Vite. | React, Vite |
+| **Acme Rockets** | A company website built with React and Vite. | React, Vite |
 
 ---
 
@@ -32,6 +34,7 @@ Hi, I'm **Sidiq Olasode**, aka **JSX**, a web developer specializing in React.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidiq20)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sidiq20)
+[![x](https://img.shields.io/badge/x-black?logo=x&logoColor=white)](https://x.com/sidiqolasode)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidiqolasode@gmail.com)
 
 ---
