@@ -21,6 +21,7 @@ I'm also learning about **AI/ML** and exploring how these technologies can be in
 ![Flask](https://img.shields.io/badge/Flask-092E20?logo=Flask&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI/ML-orange?logo=tensorflow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)
+![jinja](https://img.shields.io/badge/jinja-red?logo=jinja&logoColor=white)
 
 ---
 
