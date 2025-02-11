@@ -9,10 +9,13 @@ Hi, I'm **Sidiq Olasode**, aka **JSX**, a web developer specializing in React.js
 I'm also learning about **AI/ML** and exploring how these technologies can be integrated into web applications. 🤖  
 
 🔗 **Check out my portfolio:** [sidiqolasode.vercel.app](https://sidiqolasode.vercel.app/)  
+🔗 **More About Me:** [About Me](https://sidiqolasode.vercel.app/about)  
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools  
+
+🔗 **Full Tech Stack:** [Tech Stack](https://sidiqolasode.vercel.app/stack)  
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -26,7 +29,9 @@ I'm also learning about **AI/ML** and exploring how these technologies can be in
 
 ---
 
-## 🎨 Projects
+## 🎨 Projects  
+
+🔗 **See All My Projects:** [Projects](https://sidiqolasode.vercel.app/projects)  
 
 | Project Name     | Description                                | Tech Stack             |
 |------------------|--------------------------------------------|------------------------|
@@ -38,7 +43,9 @@ I'm also learning about **AI/ML** and exploring how these technologies can be in
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
+
+🔗 **Get in Touch:** [Contact Me](https://sidiqolasode.vercel.app/contact)  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://sidiqolasode.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidiq20)
@@ -50,15 +57,15 @@ I'm also learning about **AI/ML** and exploring how these technologies can be in
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-![JSX's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidiq20&show_icons=true&theme=radical)
+![JSX's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidiq20&show_icons=true&theme=radical)  
 
 ---
 
-## 🎉 Fun Fact
+## 🎉 Fun Fact  
 
-I’ve been supporting Arsenal since I was seven years old! ⚽
+I’ve been supporting Arsenal since I was seven years old! ⚽  
 
 ---
 
