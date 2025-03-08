@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-gradient-image-link.png" width="300" height="80" alt="Sidiq Olasode aka JSX">
+  <img src="[https://your-gradient-image-link.png](https://avatars.githubusercontent.com/u/150304633?s=400&u=46005fe5f5b8025b1707a7ce0fbf9aa1c946ed8c&v=4)" width="300" height="80" alt="Sidiq Olasode aka JSX">
 </h1>
 
 ## 🌟 About Me
