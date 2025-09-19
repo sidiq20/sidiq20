@@ -1,7 +1,3 @@
-h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/150304633?s=400&u=46005fe5f5b8025b1707a7ce0fbf9aa1c946ed8c&v=4" width="120" height="120" style="border-radius: 50%;" alt="Sidiq Olasode aka JSX">
-  <br>
-  <b>👋 Hi, I'm Sidiq Olasode</b>
   <br>
   <i>Full Stack Developer & AI/ML Enthusiast</i>
 </h1>
