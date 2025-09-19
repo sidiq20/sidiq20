@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://your-gradient-image-link.png](https://avatars.githubusercontent.com/u/150304633?s=400&u=46005fe5f5b8025b1707a7ce0fbf9aa1c946ed8c&v=4)" width="300" height="80" alt="Sidiq Olasode aka JSX">
+  <img src="https://your-gradient-image-link.png" width="300" height="80" alt="Sidiq Olasode aka JSX">
 </h1>
 
 ## 🌟 About Me
@@ -52,4 +52,21 @@ I'm also learning about **AI/ML** and exploring how these technologies can be in
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sidiq20)
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/sidiqolasode)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100071422583608)
-[![Instag
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/napoleon_xo_/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidiqolasode@gmail.com)
+
+---
+
+## 📈 GitHub Stats  
+
+![JSX's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidiq20&show_icons=true&theme=radical)  
+
+---
+
+## 🎉 Fun Fact  
+
+I’ve been supporting Arsenal since I was seven years old! ⚽  
+
+---
+
+<span style="color:darkblue">Thank you for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate!</span>
